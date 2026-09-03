@@ -212,6 +212,23 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+# Project data
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.xls
+
+# Generated models and outputs
+models/
+outputs/
+reports/figures/
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
 __marimo__/
 
 # Streamlit
